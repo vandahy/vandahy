@@ -51,23 +51,11 @@
 
 ---
 
-## 📊 GitHub Contributions & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-vandahy-projects.vercel.app/api?username=vandahy&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats-git-master-vandahy-projects.vercel.app/api/top-langs/?username=vandahy&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vandahy&theme=tokyonight" />
-</p>
-
-
 ---
 
 ## 💬 Contact
-- 📧 Email: *your-email-here*  
-- 💼 LinkedIn: *your-link-here*  
+- 📧 Email: vandahy77@gmail.com
+- 💼 LinkedIn: [Đahy Văn](https://www.linkedin.com/in/%C4%91ahy-v%C4%83n-2a57ab387/)
 
 ---
 
